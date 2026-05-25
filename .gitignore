@@ -1,0 +1,21 @@
+# Compiled binaries
+dna_detector
+dna_detector_gui
+*.exe
+*.out
+*.o
+*.obj
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
